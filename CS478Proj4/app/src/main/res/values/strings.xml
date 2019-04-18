@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">CS478Proj4</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name = "ToastName1">Manual</string>
+    <string name = "ToastName2">Autoplay</string>
+</resources>
